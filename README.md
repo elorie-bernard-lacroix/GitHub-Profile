@@ -1,4 +1,9 @@
+<!---
+written in Markdown
+--->
 ## Hello World! I’m Elorie Bernard-Lacroix
+<img align="right" alt="GIF" src="9ea72ef078139ced289852e8a4ea0c5c.gif" width="200" height="150" />
+
 I am a student at Alexander Mackenzie High School. 
 
 - 👀 I’m interested in BCI's, robotics, and data science
