@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Elorie Bernard-Lacroix
+## Hello World! I’m Elorie Bernard-Lacroix
+I am a student at Alexander Mackenzie High School. 
+
 - 👀 I’m interested in BCI's, robotics, and data science
 - 🌱 I’m currently learning some web dev and improving my efficiency in Java
 - 📫 You can reach me by email at eloriel0310@gmail.com
